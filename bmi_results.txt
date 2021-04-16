@@ -1,0 +1,48 @@
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 F 45.0 1.68 15.9 - Underweight - Perfect weight for that height is : 63.5 Person should gain: 18.5
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 7 450.0 1.68 159.4 - Obese - Perfect weight for that height is : 61.2 Person should lose: 388.8
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 7 450.0 1.68 159.4 - Obese - Perfect weight for that height is : 61.2 Person should lose: 388.8
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 F 57.0 1.68 20.2 - Normal - Person has perfect weight
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 F 57.0 1.68 20.2 - Normal - Person has perfect weight
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 F 57.0 1.68 20.2 - Normal - Person has perfect weight
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 F 57.0 1.68 20.2 - Normal - Person has perfect weight
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
+1 F 65.0 1.7 22.5 - Normal - Person has perfect weight
+2 M 80.0 1.65 29.4 - Overweight - Perfect weight for that height is : 58.5 Person should lose: 21.5
+3 F 57.0 1.68 20.2 - Normal - Person has perfect weight
+4 M 150.0 1.8 46.3 - Obese - Perfect weight for that height is : 72.0 Person should lose: 78.0
+5 F 50.0 1.67 17.9 - Underweight - Perfect weight for that height is : 62.5 Person should gain: 12.5
